@@ -1,6 +1,6 @@
 Current Usage Options 📱
 
-Your app is designed to be shared and used in several ways:
+   app is designed to be shared and used in several ways:
 
 1. Direct File Sharing (Simplest)
 •  Package all files into a ZIP
@@ -18,7 +18,7 @@ Your app is designed to be shared and used in several ways:
 
 What Users Get 🎯
 
-Your app provides:
+   app provides:
 •  Dashboard: Progress tracking and statistics
 •  Study Mode: Flashcards and quick quizzes with immediate feedback
 •  Practice Tests: Full 90-question exams with timing
